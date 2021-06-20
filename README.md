@@ -62,7 +62,7 @@ U will need <a href="https://unity3d.com/get-unity/download">Unity</a> on your P
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-<a href="https://youtu.be/Y6-GEZmHpbw"> Youtube demo </a>
+<a href="https://youtu.be/Y6-GEZmHpbw" target="_blank"> Youtube demo </a>
 
 
 <!-- LICENSE -->
