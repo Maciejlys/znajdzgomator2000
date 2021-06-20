@@ -20,8 +20,6 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -70,12 +68,3 @@ U will need <a href="https://unity3d.com/get-unity/download">Unity</a> on your P
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
-
-<!-- CONTACT -->
-## Contact
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
